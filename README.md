@@ -4,7 +4,7 @@
 
 This page showcases a fully functional programmable computer built with breadboards and simple
 electronics components. It was inspired by [Ben Eater's work](https://eater.net/8bit) but adapted
-based on the what components were readily available. Check out my walk-through video to see it in
+based on what components were readily available. Check out my walk-through video to see it in
 action and give me a star if you enjoy it!
 
 [![Breadboard Computer Demo](./images/thumbnail.png)](https://www.youtube.com/watch?v=gfXwxyk_Bkw)
